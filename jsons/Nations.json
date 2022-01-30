@@ -1,0 +1,59 @@
+[
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+	{
+		"name": "Eruch",
+		"leaderName": "Cyrus Rotheram",
+		"adjective": ["Eruch"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "The Eruch Empire began as a series of impassioned debates between long established noble families about the growing chaos in the world and what could be done to stop it. The debates soon reached a critical mass for action, fueled by the nobles’ fear of an uncertain future as well as their desire to protect their wealth. A secret council was formed, drawing on the leadership and military prowess that had been their inheritance from previous generations. It mobilized a small but well-equipped army. With it, the nobles carved out a large territory that would become the core of Eruch, and seceded from the old kingdoms.",
+		"startIntroPart2": "Outwardly, leaders of Eruch profess the glories of civilized life, and seek to spread their ways to the ends of the earth. They act as gentlemen in diplomatic affairs, but always have a rigid structure of military might ready to respond at their first call.",
+		"declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
+		"attacked": "Corrupted villain! We will bring you into the ground!",
+		"defeated": "Eruch has been destroyed. I weep for the future generations.",
+		"introduction": "Guten tag. In the name of the great Eruch people, I bid you welcome.",
+		"neutralHello": "What now?",
+		"hateHello": "So, out with it!",
+		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
+		"outerColor": [81,0,9],
+		"innerColor": [255,120,0],
+		"uniqueName": "Tireless Watch",
+		"uniques": [],
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Dusseldorf","Bremen",
+			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+			"Munster","Rostok","Chemnitz","Braunschweig","Halle","Mצnchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrucken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabruck","Ludwingshafen","Leverkusen","Oldenburg","Neuss","Mulheim","Darmstadt","Herne","Wurzburg",
+			"Recklinghausen","Gצttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+	},
+	{
+		"name": "Dalmace",
+		"leaderName": "Clinton Alderdice",
+		"adjective": ["Dalmace"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Dalmace arose out of necessity. The turmoil of old kingdoms collapsing and new empires emerging left many people of the lower and middle classes marginalized. Some stayed in their homelands but many fled as refugees, not knowing where to go. They gathered in the country estates of nobles that did not have the heart or the force to deny their presence. Soon leaders arose from the ranks of the refugees, calling for organization, protection, food, and resources. Some nobles saw opportunity and joined their ranks, sharing their wealth. Others refused, and their estates were ransacked. These were the first Dalmace compounds, which would grow into cities that rivaled those of any other empire.",
+		"startIntroPart2": "Dalmace is founded on ideals, and its strength comes from the tight camaraderie and evolving culture of its humble citizens.",
+		"declaringWar": "You're disturbing us, prepare for war.",
+		"attacked": "You've fallen into my trap. I'll bury you.",
+		"defeated": "I congratulate you for your victory.",
+		"introduction": "Welcome. I'm Clinton Alderdice, of Dalmace; the smartest military man in world history.",
+		"neutralHello": "Hello.",
+		"hateHello": "It's you.",
+		"tradeRequest": "Dalmace offers you this exceptional proposition.",
+		"outerColor": [213,166,120],
+		"innerColor": [43,79,83],
+		"uniqueName": "New World Order",
+		"uniques": [],
+		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
+			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
+			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"]
+	}
+	        	
+]
+

@@ -1,0 +1,11 @@
+[	
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 681,
+		"uniques": ["Founds a new city",
+			"Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+	},
+]

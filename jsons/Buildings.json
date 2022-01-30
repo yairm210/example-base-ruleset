@@ -1,0 +1,16 @@
+[
+    // Ancient Era
+
+    {
+        "name": "Seat of Power",
+        "isNationalWonder": true,
+        "cost": 1,
+        "uniques": ["Indicates the capital city", "Notified of new Barbarian encampments"]
+    },
+    {
+		"name": "Monument",
+		"cost": 8,
+		"maintenance": 1,
+		"uniques": ["Triggers victory"]
+	},
+]
