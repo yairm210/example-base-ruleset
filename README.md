@@ -1,4 +1,4 @@
-# example-base-ruleset
+# Unciv Base Ruleset template
 
 A template for creating base rulesets for Unciv.
 
