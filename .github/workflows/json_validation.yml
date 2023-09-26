@@ -18,4 +18,4 @@ jobs:
     - uses: Zingabopp/JsonValidate-Action@v1
       with:
         json-schema: https://github.com/yairm210/Unciv/blob/master/docs/Modders/schemas/buildings.json
-        json-file: jsons/Buildings.json
+        json-file: ../jsons/Buildings.json
