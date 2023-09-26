@@ -1,0 +1,21 @@
+name: json validation
+
+# Controls when the workflow will run
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: Zingabopp/JsonValidate-Action@v1
+      with:
+        json-schema: https://github.com/yairm210/Unciv/blob/master/docs/Modders/schemas/buildings.json
+        json-file: jsons/Buildings.json
