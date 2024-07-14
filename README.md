@@ -1,7 +1,3 @@
 # Unciv Base Ruleset template
 
-A template for creating base rulesets for Unciv.
-
-To create your own ruleset based off of this one, click the green "Use this template" button.
-
-For more information, you can see our extensive [documentation](https://yairm210.github.io/Unciv/Modders/Mods/).
+Superceded by the new [https://github.com/yairm210/Unciv-minimal-base-ruleset](minimal base ruleset) repo
